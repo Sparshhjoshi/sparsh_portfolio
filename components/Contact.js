@@ -16,7 +16,7 @@ const contacts = [
   },
   {
     label: 'LinkedIn',
-    value: 'linkedin.com/in/sparsh-joshi',
+    value: 'linkedin.com/in/sparsh-joshi-a550a828a',
     href: 'https://www.linkedin.com/in/sparsh-joshi-a550a828a/',
     color: '#00E5FF',
     tint: 'rgba(0,229,255,0.12)',
